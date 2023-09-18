@@ -1,5 +1,5 @@
 # Bouncing-Ball-Game
-So here's a gift 🎁 of childhood for all the lovely people out there who want to dive in nostalgia like me! 🤩
+So here's a gift 🎁 of childhood for all the Millenials out there who want to dive in nostalgia like me! 🤩
 <br>
 <br>
 This is a clone of a video game 🎮 that was played by the 90's and early 2000.  
